@@ -5,16 +5,20 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Jump, Mario!</title>
+        <link rel="shortcut icon" href="./src/images/favicon.png" type="image/x-icon">
         <link rel="stylesheet" href="./src/css/style.css">
     </head>
     <body>
         <div class="game-board">
             <img src="./src/images/mario.gif" class="mario">
             <img src="./src/images/pipe.png" class="pipe">
-            <img src="./src/images/chao.png" class="chao">
+            <img src="./src/images/floor.png" class="floor">
             <img src="./src/images/clouds.png" class="clouds">
-        </div>
 
-        <script src="./src/js/script.js"></script>
+            <img class="start" onclick="startGame()" src="./src/images/Start.png">
+            <img class="game-over" onclick="restartGame()" src="./src/images/gameover-img.png">
+        </div>
+        
+        <script src="./src/js/script.js" onclick="jump"></script>
     </body>
 </html>
