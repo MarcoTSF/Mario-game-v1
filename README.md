@@ -4,6 +4,8 @@
 
 Jogo do Mario desenvolvido para navegadores, inspirado no game T-Rex Running do Google.
 
+Link para testar o jogo: https://marcotsf.github.io/Mario-game-v1/
+
 
 ## 🚀 Tecnologias do projeto:
 
