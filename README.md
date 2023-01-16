@@ -2,14 +2,14 @@
 
 ### 📝 Descrição:
 
-Jogo do Mario desenvolvido para navegadores no estilo do game T-Rex Running do Google.
+Jogo do Mario desenvolvido para navegadores, inspirado no game T-Rex Running do Google.
 
 
-## 🚀 Tecnologias desenvolvidas no projeto:
+## 🚀 Tecnologias do projeto:
 
 - ✔️ HTML
 - ✔️ CSS
 - ✔️ JavaScript
 
-<h3 align="center">Developed by <a href="https://www.linkedin.com/in/marcotsf/" target="_blank">Marco Túlio Salvador Filho</a></h3>
+<h3 align="center">Developed by <a href="https://www.linkedin.com/in/marcotsf/">Marco Túlio Salvador Filho</a></h3>
  
